@@ -61,7 +61,7 @@ dependencies:
     - glfw==2.10.0
     - grpcio==1.76.0
     - gs-madrona==0.0.5
-    - gstaichi==4.0.0
+    - gstaichi==4.2.0
     - idna==3.11
     - imageio==2.37.2
     - imageio-ffmpeg==0.6.0
