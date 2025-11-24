@@ -17,7 +17,6 @@ This repository contains code for training and evaluating robotic grasping polic
   - [Evaluate BC Policy](#evaluate-bc-policy)
   - [Evaluation with Video Recording](#evaluation-with-video-recording)
 - [Notes](#notes)
-- [References](#references)
 
 ---
 
